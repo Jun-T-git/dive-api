@@ -23,7 +23,7 @@
 hs_err_pid*
 replay_pid*
 
-app/HELP.md
+HELP.md
 target/
 !app/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
